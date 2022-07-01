@@ -2,6 +2,8 @@
 
 ### How to Run
 
+First, run the following command.
+
 ``
 g++ main.cpp -std=c++11 -o project2
 ``
